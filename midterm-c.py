@@ -5,6 +5,7 @@ Created on Thu May  2 16:06:27 2019
 @author: salam
 """
 
+## Combine with midterm-b codes to run
 
 def tail_condition():
     
