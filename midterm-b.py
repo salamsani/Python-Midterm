@@ -83,8 +83,6 @@ mean_camber_line()
 max_thickness()
 chordline()
 plt.legend()
-#save_results_to = '/H:/utaa/8th sem/python/midterm project/airfoil_project/airfoil graphics/'
-#plt.savefig(save_results_to + Afname, dpi = 300)
 plt.savefig(Afname+'.jpg')
 plt.show()
 plt.close()
